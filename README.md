@@ -1,2 +1,2 @@
-# HeyGen-Video-Mastery---Create-Pro-Quality-AI-Avatar-Content
-HeyGen Video Mastery - Create Pro‑Quality AI Avatar Content, Published by Packt Publishing
+# Certified-Cloud-AI-Solutions-Architect-CCASA-Complete-Course
+Certified Cloud AI Solutions Architect (CCASA) Complete Course, Published by Packt Publishing
